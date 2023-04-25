@@ -1,0 +1,115 @@
+body {
+  background-color: rgba(24, 134, 230, 0.041)
+}
+.centered {
+  word-wrap: break-word;
+  position: fixed;
+  top: -29%;
+  left: -70%;
+  transform: translate(20%, -40%);
+  color:blue
+]
+.bottom-left {
+  position: absolute;
+  bottom: 8px;
+  left: 16px;
+left:-90%;
+color:blue
+}
+
+/* Top left text */
+.top-left {
+  position: centerd;
+  top: 8px;
+  left: 16px;
+  width: 20px,
+  height: 30px
+}
+ word-wrap: break-word;
+color:blue
+}
+
+
+/* Top right text */
+.top-right {
+  position: sticky;
+  top: 13px;
+  right: 20px;
+width: 200px,
+  height: 200px,
+  font-family: "Sofia", sans-serif;
+}
+color:blue
+
+}
+
+/* Bottom right text */
+.bottom-right {
+  position: absolute;
+  bottom: 8px;
+  right: 16px;
+}
+
+/* Centered text */
+
+}
+span {
+    position:realtive;
+    text-align: center;
+font-size: 30px;
+font-family: 'Mukta', sans-serif;
+font-family: 'Tilt Prism', cursive;
+background-image:url(C.A.P jpeg);
+color:#808080
+font-size: 80px;
+  color: #fff;
+  text-align: center;
+  -webkit-animation: glow 1s ease-in-out infinite alternate;
+  -moz-animation: glow 1s ease-in-out infinite alternate;
+  animation: glow 1s ease-in-out infinite alternate;
+}
+
+@-webkit-keyframes glow {
+  from {
+    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px green, 0 0 40px #54e600, 0 0 50px #13ca50, 0 0 60px #14c42b, 0 0 70px #60e413;
+  }
+  to {
+    text-shadow: 0 0 20px #fff, 0 0 30px #1cd63b, 0 0 40px #199400, 0 0 50px #279b44, 0 0 60px #23b63c, 0 0 70px #2eb11d, 0 0 80px #8ae01a;
+  }
+}
+.cap {
+   
+    text-align: center;
+    color:yellow;
+    text-size:30PX;
+font-family: 'Tilt Prism', cursive;
+.container {
+  position: relative;
+  text-align: center;
+  color: rgb(224, 16, 16);
+font-size:50px;
+}
+
+/* "CAP" text */
+
+.airplane {
+  position: realtive;
+    text-align: center;
+    color:#CCCFB
+ word-wrap: break-word;
+text-size:40px 
+font-family: 'Mukta', sans-serif;
+font-family: 'Tilt Prism', cursive;
+}
+
+
+/* Bottom left text */
+
+h4{ 
+    
+    font-family: 'Mukta', sans-serif;
+color:blue
+text-size:14px
+}
+
+}
